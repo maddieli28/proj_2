@@ -2,12 +2,17 @@
   background: bisque;
 }
 
-p{
-  font-family: Helvetica, sans-serif;
-  color: darkslategray;
+h1 {
+    font-size: 42px;
+    font-family: Verdana, sans-serif;
 }
 
-h1,h2,h3{
-  font-family: Helvetica, sans-serif;
-  color: darkslategray
+p {
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
